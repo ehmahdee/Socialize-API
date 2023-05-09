@@ -33,7 +33,7 @@
   ## Contributions
 
  ## Contributions and Credits
- 
+
     My discord study group: Michael Huang, Michael Rader, and Patricia Alberto.
 
 [Stack Overflow reference on validating an email regex](https://stackoverflow.com/questions/18022365/mongoose-validate-email-syntax)
