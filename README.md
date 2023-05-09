@@ -1,6 +1,6 @@
 # Socialize-API
 
-## Description
+  ## Description
   
   
 
@@ -27,18 +27,18 @@
   
   This project is licensed under the MIT license.
 
-   ## Screenshots
+  ## Screenshots
   
 
   ## Contributions
 
- ## Contributions and Credits
+  ## Contributions and Credits
 
-    My discord study group: Michael Huang, Michael Rader, and Patricia Alberto.
+  My discord study group: Michael Huang, Michael Rader, and Patricia Alberto.
 
-[Stack Overflow reference on validating an email regex](https://stackoverflow.com/questions/18022365/mongoose-validate-email-syntax)
+  [Stack Overflow reference on validating an email regex](https://stackoverflow.com/questions/18022365/mongoose-validate-email-syntax)
 
-[MDN Docs reference on adding a Date with the 'toLocale' Date String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)
+  [MDN Docs reference on adding a Date with the 'toLocale' Date String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString)
 
 
   ## Questions
